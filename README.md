@@ -13,11 +13,11 @@ The “SurfsUp” folder contains the following:
 
 •“Precipitation Analysis png”: Visualization of the precipitation analysis for part 1.
 
-1. “Temperature Analysis png”: Visualization of the temperature analysis for part 1.
+•“Temperature Analysis png”: Visualization of the temperature analysis for part 1.
 
-2. “app.py”: My FLASK API code for part 2.
+•“app.py”: My FLASK API code for part 2.
 
-3. “Climate_starter.ipynb”: MY sql_alchemy code for part 1 of the challenge.
+•“Climate_starter.ipynb”: MY sql_alchemy code for part 1 of the challenge.
 
 •“Resources” subfolder which holds these files:
 
