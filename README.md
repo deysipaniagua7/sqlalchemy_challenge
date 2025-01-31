@@ -10,19 +10,19 @@ Part 2. Design Your Climate App: We were asked to design a FLASK API based on th
 
 The “SurfsUp” folder contains the following:
 
-•	“Precipitation Analysis png”: Visualization of the precipitation analysis for part 1.
+1. “Precipitation Analysis png”: Visualization of the precipitation analysis for part 1.
 
-•	“Temperature Analysis png”: Visualization of the temperature analysis for part 1.
+  1a. “Temperature Analysis png”: Visualization of the temperature analysis for part 1.
 
-•	“app.py”: My FLASK API code for part 2.
+  1b. “app.py”: My FLASK API code for part 2.
 
-•	“Climate_starter.ipynb”: MY sql_alchemy code for part 1 of the challenge.
+  1c. “Climate_starter.ipynb”: MY sql_alchemy code for part 1 of the challenge.
 
-  “Resources” subfolder which holds these files:
+2. “Resources” subfolder which holds these files:
 
-  •	2 csv files used for this challenge.
+  2a. 2 csv files used for this challenge.
   
-  •	“Hawaii.sqlite” file
+  2b.“Hawaii.sqlite” file
 
 Please note, I used in-class activities/notes and the following resources to complete my assignments:
 
