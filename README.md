@@ -4,9 +4,9 @@ This is the repository that holds my Module 10 SQLalchemy-challenge.
 
 Module Overview: The challenge was divided into 2 parts: Analyze and Explore the Climate Data and Design Your Climate App.
 
-•Part 1. Analyze and Explore the Climate Data: We were asked to do a climate analysis about the area in Honolulu, Hawaii by using Python and SQLAlchemy. Specifically, we used SQLAlchemy ORM queries, Pandas, and Matplotlib. 
+Part 1. Analyze and Explore the Climate Data: We were asked to do a climate analysis about the area in Honolulu, Hawaii by using Python and SQLAlchemy. Specifically, we used SQLAlchemy ORM queries, Pandas, and Matplotlib. 
 
-•Part 2. Design Your Climate App: We were asked to design a FLASK API based on the queries developed in part 1. API routes were created for the home page, precipitation, stations, tobs, start date, start date to end-date.
+Part 2. Design Your Climate App: We were asked to design a FLASK API based on the queries developed in part 1. API routes were created for the home page, precipitation, stations, tobs, start date, start date to end-date.
 
 
 The “SurfsUp” folder contains the following:
